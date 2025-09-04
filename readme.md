@@ -49,6 +49,7 @@
 
 ---
 
+## BL recommendations
 <div style="display: flex; gap: 10px; justify-content: center;">
   <img src="https://github.com/user-attachments/assets/b46ac8b0-9aee-455b-895f-3db95730d454" style="width: 200px; height: 300px; object-fit: cover;" alt="Image 1"/>
   <img src="https://m.media-amazon.com/images/M/MV5BNWM4MmQwYzctY2VhZC00ZTczLTgyZWQtMmJiOTI2NzU0Yzg3XkEyXkFqcGc@._V1_.jpg" style="width: 200px; height: 300px; object-fit: cover;" alt="Image 3"/>
