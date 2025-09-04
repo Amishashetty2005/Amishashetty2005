@@ -44,8 +44,13 @@
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60"/>
   <b>Did you know?</b>  
-  When I'm not coding, I'm either vibing to music 🎧, crocheting 🧶, or dreaming up crazy project ideas 🚀.
+  When I'm not coding, I'm either vibing to music 🎧, crocheting 🧶, watching bl series, or dreaming up crazy project ideas 🚀.
 </p>
+
+---
+
+## BL series recommendations
+<img src="<img width="201" height="251" alt="image" src="https://github.com/user-attachments/assets/b46ac8b0-9aee-455b-895f-3db95730d454"/>
 
 ---
 
