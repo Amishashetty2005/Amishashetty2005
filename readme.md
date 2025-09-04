@@ -65,5 +65,5 @@
 <p align="center">
   ✨ Thanks for visiting my profile ✨  
   <br/>
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200"/>
+  <img src="[https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fthaidrama-gifs&psig=AOvVaw0XlpKXecY1cttMin_WYeQY&ust=1757056674009000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCS67HIvo8DFQAAAAAdAAAAABAE)" width="200"/>
 </p>
