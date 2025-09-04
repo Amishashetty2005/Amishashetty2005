@@ -53,7 +53,6 @@
   <img src="https://github.com/user-attachments/assets/b46ac8b0-9aee-455b-895f-3db95730d454" style="width: 200px; height: 300px; object-fit: cover;" alt="Image 1"/>
   <img src="https://ih1.redbubble.net/image.5415552203.0898/flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg" style="width: 200px; height: 300px; object-fit: cover;" alt="Image 2"/>
   <img src="https://m.media-amazon.com/images/M/MV5BNWM4MmQwYzctY2VhZC00ZTczLTgyZWQtMmJiOTI2NzU0Yzg3XkEyXkFqcGc@._V1_.jpg" style="width: 200px; height: 300px; object-fit: cover;" alt="Image 3"/>
-  <img src="https://m.media-amazon.com/images/M/MV5BMTUwMjUxMWMtYzg3NS00OGViLThkOGItZDBiNmYxYTlmZjhmXkEyXkFqcGc@._V1_.jpg" style="width: 200px; height: 300px; object-fit: cover;" alt="Image 4"/>
   <img src="https://preview.redd.it/what-are-your-favorite-bl-drama-posters-v0-j0w3bk7ftw3c1.jpg?width=300&format=pjpg&auto=webp&s=4d54292a1087ed2bfeed71c17ed20573d88603d7" style="width: 200px; height: 300px; object-fit: cover;" alt="Image 5"/>
   <img src="https://ih1.redbubble.net/image.5413974184.2458/fposter,small,wall_texture,square_product,600x600.u1.jpg" style="width: 200px; height: 300px; object-fit: cover;" alt="Image 6"/>
 </div>
