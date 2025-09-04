@@ -65,5 +65,5 @@
 <p align="center">
   ✨ Thanks for visiting my profile ✨  
   <br/>
-  <img src="[[[https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fthaidrama-gifs&psig=AOvVaw0XlpKXecY1cttMin_WYeQY&ust=1757056674009000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCS67HIvo8DFQAAAAAdAAAAABAE)](https://media1.tenor.com/m/6Xm6CfZGN4kAAAAC/kao-noppakao-lovely-writer.gif)](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFhNjkxYXhlMG15c3R2MHVid2Mxc3Z2aWozcmZuMmY4aGd2YTgwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g0RtVeGhjvIyQd3Gmb/giphy.gif)" width="200"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200"/>
 </p>
