@@ -50,7 +50,7 @@
 ---
 
 ## BL series recommendations
-<img src="<img width="201" height="251" alt="image" src="https://github.com/user-attachments/assets/b46ac8b0-9aee-455b-895f-3db95730d454"/>
+<img src="https://github.com/user-attachments/assets/b46ac8b0-9aee-455b-895f-3db95730d454"/>
 
 ---
 
