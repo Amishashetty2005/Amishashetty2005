@@ -1,5 +1,5 @@
 <h1 align="center">
-  Heyyy 👋 I'm Amisha Shetty 💻✨
+  Hi I'm Amisha Shetty S. I Don't know why I exsist! I have exsistential crisis!
 </h1>
 
 <p align="center">
