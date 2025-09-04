@@ -65,5 +65,5 @@
 <p align="center">
   ✨ Thanks for visiting my profile ✨  
   <br/>
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZuNnR0dHVobnhiamx2bmU3YXdreHJvbzU1bnozcmVpNm9rMnFzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1omJ8wJAMTKYrJN8Ay/giphy.gif" width="250"/>
 </p>
